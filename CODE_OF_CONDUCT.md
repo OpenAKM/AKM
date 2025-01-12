@@ -1,4 +1,5 @@
-# Contributor Covenant Code of Conduct
+# AKM Cyber Corp's Contributor Covenant Code of Conduct
+![logo](images/AKMCyberLogo.png)
 
 ## Our Pledge
 
