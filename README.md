@@ -21,4 +21,10 @@ Reference:
 https://github.com/larry-eng/AKM_And_AIM_Technical_Docs/blob/main/ORG-1-AKM-Primer-Rev40.pdf
 
 
+## Current Status
+- While AKM has been in the works for quite a while, this GitHub Open Source effort is just staring as of January 2025.
+- We are in the initial stages of the project. No projuct or source code has been released.
 
+## Contributing
+- We welcome contributors at all levels.
+- Until we have some source and documents checked in, potential contributors would are welcome to contact bart@akmcyber.com to see how they can help.
