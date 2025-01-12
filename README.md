@@ -27,4 +27,4 @@ https://github.com/larry-eng/AKM_And_AIM_Technical_Docs/blob/main/ORG-1-AKM-Prim
 
 ## Contributing
 - We welcome contributors at all levels.
-- Until we have some source and documents checked in, potential contributors would are welcome to contact bart@akmcyber.com to see how they can help.
+- Until we have some source and documents checked in, potential contributors are welcome to contact bart@akmcyber.com to see how they can help.
