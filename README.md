@@ -17,8 +17,8 @@ Autonomous Key Management
 - AKM will be the preferred method to secure groups of nodes on the battlefield and in remote areas like space and underwater (both of which are difficult to update security credentials using PKI).
 
 Reference:
-* AKM Primer: 
-https://github.com/larry-eng/AKM_And_AIM_Technical_Docs/blob/main/ORG-1-AKM-Primer-Rev40.pdf
+* AKM Primer:
+https://github.com/AKM-Cyber-Corp/AKM_AIM_TechnicalDocs/blob/main/ORG-1-AKM-Primer-Rev40.pdf
 
 
 ## Current Status
