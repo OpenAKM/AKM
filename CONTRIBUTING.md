@@ -1,5 +1,5 @@
-# AKM Cyber Corp
-![logo](images/AKMCyberLogo.png)
+# OpenAKM
+![logo](images/OpenAKM-Logo.jpg)
 
 ## Contributing
 - We welcome contributors at all levels.
