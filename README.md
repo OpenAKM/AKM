@@ -1,4 +1,4 @@
-# AKM Cyber Corp
+# OpenAKM
 ![logo](images/AKMCyberLogo.png)
 
 ## AKM Top Level Repository
@@ -18,7 +18,7 @@ Autonomous Key Management
 
 Reference:
 * AKM Primer:
-https://github.com/AKM-Cyber-Corp/AKM_AIM_TechnicalDocs/blob/main/ORG-1-AKM-Primer-Rev40.pdf
+https://github.com/OpenAKM_AIM_TechnicalDocs/blob/main/ORG-1-AKM-Primer-Rev40.pdf
 
 
 ## Current Status
