@@ -1,5 +1,5 @@
 # OpenAKM
-![logo](images/AKMCyberLogo.png)
+![logo](images/OpenAKM-Logo.jpg)
 
 ## AKM Top Level Repository
 - This folder will contain the build scripts to create the complete AKM Project
